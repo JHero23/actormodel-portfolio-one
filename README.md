@@ -1,10 +1,13 @@
-# Actor/Model Portfolio Template 1 (Web Pages Version)
+# Actor/Model Portfolio Template 1 (Web Pages)
 A basic, multi-page, actor/model portfolio with minimal design from Bootstrap. This template contains multiple files for navigation.
 
 ## Purpose
 The purpose of this template is to already have a basic portfolio website made for an actor/model to lessen time to build from scratch, allowing users to spend less time architecting and styling, and more time adding images, bios, new updates, etc.
 
 NOTE: For the Web App Project go to its sibling repository.
+
+## Included
+HTML files and CSS files for download to use.
 
 ## Installation/Download
 Clone the repo, or Download it, place it whereever you like, open any of the pages on the browser.
