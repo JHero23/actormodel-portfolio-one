@@ -6,6 +6,8 @@ The purpose of this template is to already have a basic portfolio website made f
 
 NOTE: For the Web App Project go to its sibling repository.
 
+[Live Preview](https://jhero23.github.io/actormodel-portfolio-one/)
+
 ## Included
 HTML files and CSS files for download to use.
 
