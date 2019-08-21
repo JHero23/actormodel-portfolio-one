@@ -8,9 +8,6 @@ NOTE: For the Web App [go here](https://github.com/JHero23/actormodel-portfolio-
 
 [Live Preview](https://jhero23.github.io/actormodel-portfolio-one/)
 
-## Included
-HTML files and CSS files for download to use.
-
 ## Installation/Download
 Clone the repo, or Download it, place it whereever you like, open any of the pages on the browser.
 
