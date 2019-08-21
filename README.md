@@ -4,7 +4,7 @@ A basic, multi-page, actor/model portfolio with minimal design from Bootstrap. T
 ## Purpose
 The purpose of this template is to already have a basic portfolio website made for an actor/model to lessen time to build from scratch, allowing users to spend less time architecting and styling, and more time adding images, bios, new updates, etc.
 
-NOTE: For the Web App Version [go here](https://github.com/JHero23/actor-model-portfolio-t1-web).
+NOTE: For the Web App Project go to its sibling repository.
 
 ## Installation/Download
 Clone the repo, or Download it, place it whereever you like, open any of the pages on the browser.
