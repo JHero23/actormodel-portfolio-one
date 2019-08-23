@@ -1,10 +1,12 @@
-# Actor/Model Portfolio Template 1 (Web Pages Version)
-A basic, multi-page, actor/model portfolio with minimal design from Bootstrap. This template contains multiple files for navigation.
+# Actor/Model Portfolio Template 1 (Web Pages)
+A basic, multi-page, actor/model portfolio template app with minimal design from Bootstrap. This template contains multiple files for navigation.
 
 ## Purpose
 The purpose of this template is to already have a basic portfolio website made for an actor/model to lessen time to build from scratch, allowing users to spend less time architecting and styling, and more time adding images, bios, new updates, etc.
 
-NOTE: For the Web App Project go to its sibling repository.
+NOTE: For the Web App Version [go here](https://github.com/JHero23/actormodel-portfolio-one-app).
+
+[Live Preview](https://jhero23.github.io/actormodel-portfolio-one/)
 
 ## Installation/Download
 Clone the repo, or Download it, place it whereever you like, open any of the pages on the browser.
