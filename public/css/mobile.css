@@ -37,6 +37,7 @@
 
     .media {
         display: block;
+        text-align: -webkit-center;
     }
 
     .media-objects {
