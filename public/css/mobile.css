@@ -1,5 +1,5 @@
 /* #### Mobile Phones Portrait or Landscape #### */
-@media screen and (max-device-width: 640px){
+@media screen and (max-width: 640px){
     /* some CSS here */
     header {
         width: 100%;
@@ -37,6 +37,7 @@
 
     .media {
         display: block;
+        text-align: -webkit-center;
     }
 
     .media-objects {
